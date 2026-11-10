@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CycleDetection",
+            "request": "launch",
+            "mainClass": "CycleDetection",
+            "projectName": "graph_7a2698ac"
+        },
+        {
+            "type": "java",
             "name": "DFS_Graph",
             "request": "launch",
             "mainClass": "DFS_Graph",
