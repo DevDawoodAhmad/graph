@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TopoSort",
+            "request": "launch",
+            "mainClass": "TopoSort",
+            "projectName": "graph_7a2698ac"
+        },
+        {
+            "type": "java",
+            "name": "CycleDetection",
+            "request": "launch",
+            "mainClass": "bfs.CycleDetection",
+            "projectName": "graph_7a2698ac"
+        },
+        {
+            "type": "java",
             "name": "CycleDetection",
             "request": "launch",
             "mainClass": "CycleDetection",
