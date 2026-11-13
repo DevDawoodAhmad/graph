@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CycDet_With_Kahn",
+            "request": "launch",
+            "mainClass": "bfs.CycDet_With_Kahn",
+            "projectName": "graph_7a2698ac"
+        },
+        {
+            "type": "java",
             "name": "CycDet_In_DGraph",
             "request": "launch",
             "mainClass": "CycDet_In_DGraph",
