@@ -8,6 +8,13 @@
             "type": "java",
             "name": "BPG_Check",
             "request": "launch",
+            "mainClass": "BPG_Check",
+            "projectName": "graph_7a2698ac"
+        },
+        {
+            "type": "java",
+            "name": "BPG_Check",
+            "request": "launch",
             "mainClass": "bfs.BPG_Check",
             "projectName": "graph_7a2698ac"
         },
