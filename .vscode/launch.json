@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Covid_Spread",
+            "request": "launch",
+            "mainClass": "Covid_Spread",
+            "projectName": "graph_7a2698ac"
+        },
+        {
+            "type": "java",
             "name": "BPG_Check",
             "request": "launch",
             "mainClass": "BPG_Check",
